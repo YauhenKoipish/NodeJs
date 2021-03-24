@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YauhenKoipish/NodeJs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Koipish Evgeny <yauhen.koipish@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YauhenKoipish/NodeJs/issues"
+  },
+  "homepage": "https://github.com/YauhenKoipish/NodeJs#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
